@@ -1,1 +1,3 @@
-# xv6_OS
+# xv6_Operating System
+This is my implementation for the xv6_OS as a part of the course CS330-Operating Systems.
+xv6 is a simple Unix-like operating system developed for educational purposes by MIT in the early 2000s. It is designed to run on x86-based PCs and is based on the Unix Version 6 (v6) operating system, which was released in the 1970s. xv6 is open-source software and is distributed under a BSD-style license. It is widely used as a teaching tool in operating systems courses because of its simplicity and clarity of implementation. It provides a hands-on experience for students to understand the basic concepts of operating systems such as process management, memory management, file systems, and system calls.
